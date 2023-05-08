@@ -8,8 +8,8 @@ Most of the requirements of this projects are exactly the same as [maskrcnn-benc
 
 ### Step-by-step installation
 
-conda create --name=mask3d python=3.10.6
-conda activate mask3d
+conda create --name=FB3C python=3.10.6
+conda activate FB3C
 
 conda update -n base -c defaults conda
 conda install openblas-devel -c anaconda
